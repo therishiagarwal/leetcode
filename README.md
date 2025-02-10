@@ -27,3 +27,8 @@ This repository contains my LeetCode problem solutions, divided into:
 | 09-02-2025 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/?envType=daily-question&envId=2025-02-09) | array, hashing, counting | POTD | |
 | 10-02-2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10) | string | POTD | |
 
+## Sheet
+
+
+
+
