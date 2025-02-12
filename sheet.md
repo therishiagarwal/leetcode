@@ -18,3 +18,5 @@
 | | [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Modified Binary Search | | |
 | | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Modified Binary Search | | |
 | | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Modified Binary Search | | |
+| | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | | | |
+| 24-11-2024 | [876. Middle of the Linked List](http://leetcode.com/problems/middle-of-the-linked-list/description/) | | | |
