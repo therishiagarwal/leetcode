@@ -31,7 +31,10 @@ This repository contains my LeetCode problem solutions, divided into:
 | 10-02-2025 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10) | string | POTD | |
 | 11-02-2025 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/) | string | POTD | |
 | 12-02-2025 | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | array, hashing | POTD |  |
+| 13-02-2025 | [3066. Minimum Operations to Exceed Threshold Value](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value/) | heap (priority queue) | POTD | |
 
 
 
+---
 
+_Last updated: 13-Feb-2025_
