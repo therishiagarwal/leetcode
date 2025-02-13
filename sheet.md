@@ -20,3 +20,5 @@
 | | [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Modified Binary Search | | |
 | | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) | | | |
 | 24-11-2024 | [876. Middle of the Linked List](http://leetcode.com/problems/middle-of-the-linked-list/description/) | | | |
+| 13-02-2025 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Linked List, Two Pointers, Stack | Striver, Practice | Time: O(N), Space: O(1) |
+
