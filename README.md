@@ -33,8 +33,9 @@ This repository contains my LeetCode problem solutions, divided into:
 | 12-02-2025 | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) | array, hashing | POTD |  |
 | 13-02-2025 | [3066. Minimum Operations to Exceed Threshold Value](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | heap (priority queue) | POTD | Time: O(n log n). |
 | 13-02-2025 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Linked List, Two Pointers, Stack | Striver, Practice | Time: O(N), Space: O(1) |
+| 14-02-2025 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Array, Prefix Product, Design | POTD| Efficient O(1) `getProduct(k)`, resets on zero input |
 
 
 ---
 
-_Last updated: 13-Feb-2025_
+_Last updated: 14-Feb-2025_
